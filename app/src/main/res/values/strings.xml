@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LibraryFragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- STRINGS FOR CREATE BOOK ACTIVITY-->
+    <string name="text_title_book_title">Titulo</string>
+    <string name="text_hint_book_title">Ingresa titulo</string>
+    <string name="text_title_book_gender">Género</string>
+    <string name="text_hint_book_gender">Ingresa género</string>
+    <string name="text_title_book_description">Descripción</string>
+    <string name="text_hint_book_description">Ingresa descripción</string>
+    <string name="text_title_book_num_pages">Páginas</string>
+    <string name="text_hint_book_num_pages">Num. Pag</string>
+    <string name="text_title_book_num_copies">Copias</string>
+    <string name="text_hint_book_num_copies">Num. copias</string>
+    <string name="text_title_book_url_img">Imagen de libro</string>
+    <string name="text_hint_book_url_img">Ingresa url de la imagen</string>
+    <string name="btn_create_book">Guardar</string>
+    <string name="title_activity_detalles_del_libro">detallesDelLibro</string>
+
+    <string name="menu_option_share">Compartir</string>
+
+
+    <string name="txt_name_character_detail_activity">* %1$s \n</string>
+
+</resources>
